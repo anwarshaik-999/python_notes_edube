@@ -7,3 +7,4 @@ except ValueError:
     print("value error")
 except ZeroDivisionError:
     print('cannot perform division with zero')
+#this shoots error as it is not the order to follow
