@@ -3,25 +3,25 @@
 #order of precedence *, /, //, %
 #remainder -> %
 print('remainder')
+print('15%7->',15%7)
 print('-15%7->',-15%7)
 print('15%-7->',15%-7)
-print('15%7->',15%7)
 print('-15%-7->',-15%-7)
 print('reminder of 23 and 7.05 is ->',23%7.05)
 print()
 #quotient -> //
 print('quotient')
+print('15//7->',15//7)
 print('-15//7->',-15//7)
 print('15//-7->',15//-7)
-print('15//7->',15//7)
 print('-15//-7->',-15//-7)
 print('quotient of 23.05 and 7 is ->',23.05//7)
 print()
 #division -> /
 print('division')
+print('15/7->',15/7)
 print('-15/7->',-15/7)
 print('15/-7->',15/-7)
-print('15/7->',15/7)
 print('-15/-7->',-15/-7)
 print('division of 23.05 and 7 is ->',23.05/7)
 print()

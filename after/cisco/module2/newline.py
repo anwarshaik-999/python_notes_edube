@@ -4,5 +4,5 @@ print('shaik\nanwar')
 #use two backslash to print one 
 print("\\")
 #print('\')  throws  error
-#print('\\\')  same
+#print('\\\')  odd number of backslach won't work
 print("\\\\")
