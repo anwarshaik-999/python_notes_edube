@@ -1,1 +1,0 @@
-print(str(23.56).isnumeric())

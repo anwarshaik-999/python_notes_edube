@@ -1,5 +1,0 @@
-num1=float(input('enter 1st number:'))
-num2=int(input('enter 2nd number:'))
-num3=float(input('enter 3rd number:'))
-print('biggest number is:',max(num1,num2,num3))
-print('smallest number is:',min(num1,num2,num3))

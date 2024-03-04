@@ -1,9 +1,0 @@
-list1=['anwar',999,'shaik',5304,167,'male']
-list2=list1[:]
-print(list2)
-list2=list1[0:]
-print(list2)
-list2=list1[-3:-1]
-print(list2)
-list2=list1[:len(list1)]
-print(list2)
