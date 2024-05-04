@@ -3,7 +3,7 @@ print('__name__from_firstfile:',__name__)
 if __name__=='__main__':
     print("__name__=='__main__'from_firstfile")
     #__name__=='__main__'from_firstfile
-if __name__=='firstfile':
+if __name__=='firstfile': 
     print("__name__=='firstfile'from_firstfile")
 if __name__=='secondfile':
     print("__name__=='secondfile'from_firstfile")

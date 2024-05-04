@@ -1,3 +1,4 @@
+#if the module is not in current dir then add to path and use
 import sys,math
 for p in sys.path:
     print(p)

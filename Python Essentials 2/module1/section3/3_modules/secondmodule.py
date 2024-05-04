@@ -1,3 +1,4 @@
+#to say that we can change the values of module but temporary
 import firstmodule
 # first_module: __name__= firstmodule
 # 0

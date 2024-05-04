@@ -4,7 +4,7 @@ except BaseException as e:
     print(type(e))#<class 'ArithmeticError'>
 print('_______')
 try:
-    raise
+    raise#by default it causes RuntimeError
 except BaseException as e:
     print(type(e))#<class 'RuntimeError'>
 print('_______')
